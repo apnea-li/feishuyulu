@@ -3,7 +3,7 @@
 // @namespace    https://bytedance.feishu.link/
 // @version      1.0.0
 // @description  当网页出现蓝色的“我已阅读并理解题目要求”按钮时，延迟 0.3 秒（300ms）后自动点击
-// @author       Xiang Li
+// @author       Li
 // @match        https://bytedance.feishu.link/app/app_4jy9qcj3uzy9w/*
 // @match        https://*.feishu.link/app/*
 // @match        https://*.feishu.cn/*

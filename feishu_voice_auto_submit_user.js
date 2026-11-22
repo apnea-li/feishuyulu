@@ -3,7 +3,7 @@
 // @namespace    https://bytedance.feishu.link/
 // @version      1.0.0
 // @description  监听麦克风音量：检测到人声说话后，持续静音满10秒自动点击红色“完成”按钮；等待响应且“提交并进行下一条”按钮变蓝可用后自动移过去并点击。包含可视化音量与倒计时悬浮面板。
-// @author       UserScript
+// @author       Li
 // @match        https://bytedance.feishu.link/app/*
 // @match        https://*.feishu.link/app/*
 // @match        https://*.feishu.cn/app/*
